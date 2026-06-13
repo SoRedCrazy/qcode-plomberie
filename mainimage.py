@@ -2,7 +2,7 @@ import qrcode
 from PIL import Image
 
 # URL à encoder dans le QR code
-data = "https://bdev.online/qr/review"
+data = "https://julien.leobozon.com/qr/review"
 
 # Créer le QR code avec la couleur violette
 qr = qrcode.QRCode(
